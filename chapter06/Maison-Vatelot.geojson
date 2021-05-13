@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maison Vatelot Region",
+        "description": "An example for Metabase 101 book"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1433.874049,
+              49.601783
+            ],
+            [
+              -1433.869629,
+              49.603354
+            ],
+            [
+              -1433.868771,
+              49.603257
+            ],
+            [
+              -1433.867311,
+              49.601546
+            ],
+            [
+              -1433.873212,
+              49.600086
+            ],
+            [
+              -1433.874049,
+              49.601783
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
